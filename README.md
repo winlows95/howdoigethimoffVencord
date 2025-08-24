@@ -8,6 +8,7 @@ have you ever wanted to not know how to get him off? this plugin will help you.
 ## INSTALLATION
 > [!IMPORTANT]
 > Inside the `Vencord` folder should be a folder called `src`. If you haven't already, create a folder called `userplugins` inside the `src` folder.
+> If there's no `src` folder, You aren't on the developer verison of vencord and you need to [build from source](https://docs.vencord.dev/installing/).
 1. Click the green `<> Code` button at the top right of the repository and select `Download ZIP`
 2. Unzip the downloaded ZIP file into the `userplugins` folder.
 3. Ensure it's structured as `src/userplugins/howDoIGetHimOff` or `src/userplugins/howDoIGetHimOff-main`

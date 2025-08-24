@@ -3,7 +3,8 @@
 
 # how do i get him off (Vencord)
 have you ever wanted to not know how to get him off? this plugin will help you.
-<img width="1854" height="1034" alt="image" src="https://github.com/user-attachments/assets/599a90fb-7e70-411c-9ecc-5b9eb5f2b058" />
+<img width="1850" height="1038" alt="image" src="https://github.com/user-attachments/assets/d35ea614-93e7-459d-a4e3-379725cd9abf" />
+
 
 ## INSTALLATION
 > [!IMPORTANT]

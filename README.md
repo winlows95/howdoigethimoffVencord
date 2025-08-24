@@ -1,4 +1,4 @@
-# Custom Sounds (Vencord)
+# how do i get him off (Vencord)
 have you ever wanted to not know how to get him off? this plugin will help you.
 <img width="1854" height="1034" alt="image" src="https://github.com/user-attachments/assets/599a90fb-7e70-411c-9ecc-5b9eb5f2b058" />
 
